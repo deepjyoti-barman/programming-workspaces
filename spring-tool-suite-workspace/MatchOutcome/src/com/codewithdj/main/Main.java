@@ -14,8 +14,8 @@ public class Main {
 		@Cleanup Scanner sc = new Scanner(System.in);
 		MatchBO matchBo = new MatchBO();
 		String dateHeader = "Date";
-		String teamOneHeader = "Team1";
-		String teamTwoHeader = "Team2";
+		String teamOneHeader = "Team 1";
+		String teamTwoHeader = "Team 2";
 		String venueHeader = "Venue";
 		String statusHeader = "Status";
 		String winnerTeamHeader = "Winner";

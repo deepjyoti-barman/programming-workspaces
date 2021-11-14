@@ -23,7 +23,6 @@ public class MatchBO {
 		
 		if (!isOutcomeStatusAvailable) 
 			System.out.println("Outcome status not found");
-		
 	}
 	
 	public void printMatchDetailsWithOutcomeWinnerTeam(Match[] matchList, String outcomeWinnerTeam) {
